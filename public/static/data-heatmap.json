@@ -1,0 +1,763 @@
+{
+    "chart": [
+        {
+            "name": "00:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 1
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 2
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 0
+                },
+                {
+                    "x": "Thursday",
+                    "y": 3
+                },
+                {
+                    "x": "Friday",
+                    "y": 2
+                },
+                {
+                    "x": "Saturday",
+                    "y": 4
+                },
+                {
+                    "x": "Sunday",
+                    "y": 5
+                }
+            ]
+        },
+        {
+            "name": "01:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 1
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 3
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 0
+                },
+                {
+                    "x": "Thursday",
+                    "y": 5
+                },
+                {
+                    "x": "Friday",
+                    "y": 3
+                },
+                {
+                    "x": "Saturday",
+                    "y": 5
+                },
+                {
+                    "x": "Sunday",
+                    "y": 6
+                }
+            ]
+        },
+        {
+            "name": "02:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 5
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 7
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 7
+                },
+                {
+                    "x": "Thursday",
+                    "y": 6
+                },
+                {
+                    "x": "Friday",
+                    "y": 9
+                },
+                {
+                    "x": "Saturday",
+                    "y": 10
+                },
+                {
+                    "x": "Sunday",
+                    "y": 9
+                }
+            ]
+        },
+        {
+            "name": "03:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 5
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 7
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 7
+                },
+                {
+                    "x": "Thursday",
+                    "y": 6
+                },
+                {
+                    "x": "Friday",
+                    "y": 9
+                },
+                {
+                    "x": "Saturday",
+                    "y": 10
+                },
+                {
+                    "x": "Sunday",
+                    "y": 9
+                }
+            ]
+        },
+        {
+            "name": "04:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 5
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 7
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 7
+                },
+                {
+                    "x": "Thursday",
+                    "y": 6
+                },
+                {
+                    "x": "Friday",
+                    "y": 9
+                },
+                {
+                    "x": "Saturday",
+                    "y": 10
+                },
+                {
+                    "x": "Sunday",
+                    "y": 9
+                }
+            ]
+        },
+        {
+            "name": "05:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 5
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 7
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 7
+                },
+                {
+                    "x": "Thursday",
+                    "y": 6
+                },
+                {
+                    "x": "Friday",
+                    "y": 9
+                },
+                {
+                    "x": "Saturday",
+                    "y": 10
+                },
+                {
+                    "x": "Sunday",
+                    "y": 9
+                }
+            ]
+        },
+        {
+            "name": "06:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 9
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 11
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 10
+                },
+                {
+                    "x": "Thursday",
+                    "y": 9
+                },
+                {
+                    "x": "Friday",
+                    "y": 9
+                },
+                {
+                    "x": "Saturday",
+                    "y": 13
+                },
+                {
+                    "x": "Sunday",
+                    "y": 15
+                }
+            ]
+        },
+        {
+            "name": "07:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 12
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 13
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 9
+                },
+                {
+                    "x": "Thursday",
+                    "y": 8
+                },
+                {
+                    "x": "Friday",
+                    "y": 15
+                },
+                {
+                    "x": "Saturday",
+                    "y": 20
+                },
+                {
+                    "x": "Sunday",
+                    "y": 20
+                }
+            ]
+        },
+        {
+            "name": "08:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 13
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 15
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 19
+                },
+                {
+                    "x": "Thursday",
+                    "y": 7
+                },
+                {
+                    "x": "Friday",
+                    "y": 15
+                },
+                {
+                    "x": "Saturday",
+                    "y": 22
+                },
+                {
+                    "x": "Sunday",
+                    "y": 22
+                }
+            ]
+        },
+        {
+            "name": "10:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 13
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 15
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 19
+                },
+                {
+                    "x": "Thursday",
+                    "y": 19
+                },
+                {
+                    "x": "Friday",
+                    "y": 20
+                },
+                {
+                    "x": "Saturday",
+                    "y": 60
+                },
+                {
+                    "x": "Sunday",
+                    "y": 40
+                }
+            ]
+        },
+        {
+            "name": "11:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 20
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 25
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 30
+                },
+                {
+                    "x": "Thursday",
+                    "y": 20
+                },
+                {
+                    "x": "Friday",
+                    "y": 20
+                },
+                {
+                    "x": "Saturday",
+                    "y": 60
+                },
+                {
+                    "x": "Sunday",
+                    "y": 50
+                }
+            ]
+        },
+        {
+            "name": "12:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 100
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 40
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 30
+                },
+                {
+                    "x": "Thursday",
+                    "y": 40
+                },
+                {
+                    "x": "Friday",
+                    "y": 50
+                },
+                {
+                    "x": "Saturday",
+                    "y": 150
+                },
+                {
+                    "x": "Sunday",
+                    "y": 120
+                }
+            ]
+        },
+        {
+            "name": "13:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 90
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 50
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 40
+                },
+                {
+                    "x": "Thursday",
+                    "y": 60
+                },
+                {
+                    "x": "Friday",
+                    "y": 70
+                },
+                {
+                    "x": "Saturday",
+                    "y": 120
+                },
+                {
+                    "x": "Sunday",
+                    "y": 110
+                }
+            ]
+        },
+        {
+            "name": "14:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 90
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 50
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 40
+                },
+                {
+                    "x": "Thursday",
+                    "y": 60
+                },
+                {
+                    "x": "Friday",
+                    "y": 40
+                },
+                {
+                    "x": "Saturday",
+                    "y": 90
+                },
+                {
+                    "x": "Sunday",
+                    "y": 70
+                }
+            ]
+        },
+        {
+            "name": "15:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 19
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 20
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 20
+                },
+                {
+                    "x": "Thursday",
+                    "y": 15
+                },
+                {
+                    "x": "Friday",
+                    "y": 20
+                },
+                {
+                    "x": "Saturday",
+                    "y": 50
+                },
+                {
+                    "x": "Sunday",
+                    "y": 50
+                }
+            ]
+        },
+        {
+            "name": "16:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 19
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 20
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 20
+                },
+                {
+                    "x": "Thursday",
+                    "y": 15
+                },
+                {
+                    "x": "Friday",
+                    "y": 20
+                },
+                {
+                    "x": "Saturday",
+                    "y": 50
+                },
+                {
+                    "x": "Sunday",
+                    "y": 50
+                }
+            ]
+        },
+        {
+            "name": "17:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 30
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 22
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 25
+                },
+                {
+                    "x": "Thursday",
+                    "y": 20
+                },
+                {
+                    "x": "Friday",
+                    "y": 30
+                },
+                {
+                    "x": "Saturday",
+                    "y": 45
+                },
+                {
+                    "x": "Sunday",
+                    "y": 45
+                }
+            ]
+        },
+        {
+            "name": "18:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 30
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 22
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 25
+                },
+                {
+                    "x": "Thursday",
+                    "y": 15
+                },
+                {
+                    "x": "Friday",
+                    "y": 30
+                },
+                {
+                    "x": "Saturday",
+                    "y": 45
+                },
+                {
+                    "x": "Sunday",
+                    "y": 45
+                }
+            ]
+        },
+        {
+            "name": "19:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 35
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 30
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 40
+                },
+                {
+                    "x": "Thursday",
+                    "y": 40
+                },
+                {
+                    "x": "Friday",
+                    "y": 50
+                },
+                {
+                    "x": "Saturday",
+                    "y": 120
+                },
+                {
+                    "x": "Sunday",
+                    "y": 100
+                }
+            ]
+        },
+        {
+            "name": "20:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 20
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 20
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 50
+                },
+                {
+                    "x": "Thursday",
+                    "y": 50
+                },
+                {
+                    "x": "Friday",
+                    "y": 60
+                },
+                {
+                    "x": "Saturday",
+                    "y": 140
+                },
+                {
+                    "x": "Sunday",
+                    "y": 120
+                }
+            ]
+        },
+        {
+            "name": "21:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 30
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 40
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 60
+                },
+                {
+                    "x": "Thursday",
+                    "y": 60
+                },
+                {
+                    "x": "Friday",
+                    "y": 80
+                },
+                {
+                    "x": "Saturday",
+                    "y": 150
+                },
+                {
+                    "x": "Sunday",
+                    "y": 170
+                }
+            ]
+        },
+        {
+            "name": "22:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 20
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 30
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 45
+                },
+                {
+                    "x": "Thursday",
+                    "y": 50
+                },
+                {
+                    "x": "Friday",
+                    "y": 80
+                },
+                {
+                    "x": "Saturday",
+                    "y": 120
+                },
+                {
+                    "x": "Sunday",
+                    "y": 140
+                }
+            ]
+        },
+        {
+            "name": "23:00",
+            "data": [
+                {
+                    "x": "Monday",
+                    "y": 15
+                },
+                {
+                    "x": "Tuesday",
+                    "y": 20
+                },
+                {
+                    "x": "Wednesday",
+                    "y": 25
+                },
+                {
+                    "x": "Thursday",
+                    "y": 25
+                },
+                {
+                    "x": "Friday",
+                    "y": 30
+                },
+                {
+                    "x": "Saturday",
+                    "y": 50
+                },
+                {
+                    "x": "Sunday",
+                    "y": 70
+                }
+            ]
+        }
+    ]
+}
