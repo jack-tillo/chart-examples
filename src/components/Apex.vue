@@ -2,8 +2,8 @@
     <div id="chart">
         <h1>Apex Charts with Vue wrapper</h1>
         <button @click="loadChartData">Load data</button>
-        <apexchart width="600px" type="line" :options="lineOptions" :series="lineData" />
-        <apexchart width="600px" type="heatmap" :options="heatmapOptions" :series="heatmapData" />
+        <apexchart width="800px" type="line" :options="lineOptions" :series="lineData" />
+        <apexchart width="800px" type="heatmap" :options="heatmapOptions" :series="heatmapData" />
     </div>
 </template>
 

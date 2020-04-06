@@ -43,7 +43,7 @@ export default {
             format: 'ddd'
         },
         crosshairs: {
-            show: false
+            show: true
         },
         tooltip: {
             enabled: false
