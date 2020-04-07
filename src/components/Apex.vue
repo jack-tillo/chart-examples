@@ -1,5 +1,5 @@
 <template>
-    <div id="chart">
+    <div id="apex-chart">
         <h1>Apex Charts with Vue wrapper</h1>
         <button @click="loadChartData">Load data</button>
         <apexchart width="800px" type="line" :options="lineOptions" :series="lineData" />
@@ -39,7 +39,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-#chart {
+#apex-chart {
     display: flex;
     flex-direction: column;
     align-items: center;

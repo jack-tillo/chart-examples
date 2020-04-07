@@ -11,9 +11,9 @@ Vue.use(VueRouter)
     component: ApexCharts
   },
   {
-    path: '/google',
-    name: 'Google',
-    component: () => import(/* webpackChunkName: "google" */ '../views/Google.vue')
+    path: '/c3',
+    name: 'C3',
+    component: () => import(/* webpackChunkName: "c3" */ '../views/C3.vue')
   }
 ]
 

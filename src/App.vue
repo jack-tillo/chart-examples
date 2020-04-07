@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Apex</router-link> |
-      <router-link to="/google">Google</router-link>
+      <router-link to="/c3">c3</router-link>
     </div>
     <router-view/>
   </div>
