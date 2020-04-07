@@ -9,6 +9,15 @@ export default {
         },
         animations: {
             enabled: false
+        },
+        events: {
+            markerClick: (event, chartContext, { seriesIndex, dataPointIndex, config }) => {
+                console.log('event', event)
+                console.log('chartContext', chartContext)
+                console.log('seriesIndex', seriesIndex)
+                console.log('dataPointIndex', dataPointIndex)
+                console.log('config', config)
+            }
         }
     },
     stroke: {
