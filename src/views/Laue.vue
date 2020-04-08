@@ -24,7 +24,16 @@ export default {
     },
     methods: {
         loadLaueData() {
-            this.lineData = []
+            this.lineData = [
+                { name: 'Mon', spend: 4000, goal: 2400, revenue: 2400, predicted: null },
+                { name: 'Tues', spend: 3000, goal: 1398, revenue: 2210, predicted: null },
+                { name: 'Wed', spend: 2000, goal: 9800, revenue: 2290, predicted: null },
+                { name: 'Thur', spend: 2780, goal: 3908, revenue: 2000, predicted: null },
+                { name: 'Fri', spend: 1890, goal: 4800, revenue: 1700, predicted: null },
+                { name: 'Sat', spend: 2390, goal: 3800, revenue: 2500, predicted: null },
+                { name: 'Sun', spend: 3490, goal: 4300, revenue: 2100, predicted: 3490 },
+                { name: 'Mon', spend: null, goal: null, revenue: null, predicted: 4000  }
+            ]
             this.scatterData = []
         }
     }
